@@ -1,0 +1,25 @@
+{
+  "pieces": [
+    {
+      "class": "king",
+      "xPos": 0,
+      "yPos": 7,
+      "team": "white",
+      "id_num": 0
+    },
+    {
+      "class": "queen",
+      "xPos": 4,
+      "yPos": 1,
+      "team": "white",
+      "id_num": 0
+    },
+    {
+      "class": "king",
+      "xPos": 7,
+      "yPos": 0,
+      "team": "black",
+      "id_num": 0
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "pieces": [
+    {
+      "class": "pawn",
+      "xPos": 0,
+      "yPos": 1,
+      "team": "white",
+      "id_num": 0
+    },
+    {
+      "class": "pawn",
+      "xPos": 1,
+      "yPos": 1,
+      "team": "white",
+      "id_num": 1
+    },
+    {
+      "class": "pawn",
+      "xPos": 2,
+      "yPos": 1,
+      "team": "white",
+      "id_num": 2
+    },
+    {
+      "class": "pawn",
+      "xPos": 3,
+      "yPos": 1,
+      "team": "white",
+      "id_num": 3
+    },
+    {
+      "class": "pawn",
+      "xPos": 4,
+      "yPos": 1,
+      "team": "white",
+      "id_num": 4
+    },
+    {
+      "class": "pawn",
+      "xPos": 5,
+      "yPos": 1,
+      "team": "white",
+      "id_num": 5
+    },
+    {
+      "class": "pawn",
+      "xPos": 6,
+      "yPos": 1,
+      "team": "white",
+      "id_num": 6
+    },
+    {
+      "class": "pawn",
+      "xPos": 7,
+      "yPos": 1,
+      "team": "white",
+      "id_num": 7
+    },
+    {
+      "class": "pawn",
+      "xPos": 0,
+      "yPos": 6,
+      "team": "black",
+      "id_num": 0
+    },
+    {
+      "class": "pawn",
+      "xPos": 1,
+      "yPos": 6,
+      "team": "black",
+      "id_num": 1
+    },
+    {
+      "class": "pawn",
+      "xPos": 2,
+      "yPos": 6,
+      "team": "black",
+      "id_num": 2
+    },
+    {
+      "class": "pawn",
+      "xPos": 3,
+      "yPos": 6,
+      "team": "black",
+      "id_num": 3
+    },
+    {
+      "class": "pawn",
+      "xPos": 4,
+      "yPos": 6,
+      "team": "black",
+      "id_num": 4
+    },
+    {
+      "class": "pawn",
+      "xPos": 5,
+      "yPos": 6,
+      "team": "black",
+      "id_num": 5
+    },
+    {
+      "class": "pawn",
+      "xPos": 6,
+      "yPos": 6,
+      "team": "black",
+      "id_num": 6
+    },
+    {
+      "class": "pawn",
+      "xPos": 7,
+      "yPos": 6,
+      "team": "black",
+      "id_num": 7
+    },
+    {
+      "class": "rook",
+      "xPos": 0,
+      "yPos": 0,
+      "team": "white",
+      "id_num": 0
+    },
+    {
+      "class": "rook",
+      "xPos": 7,
+      "yPos": 0,
+      "team": "white",
+      "id_num": 1
+    },
+    {
+      "class": "rook",
+      "xPos": 0,
+      "yPos": 7,
+      "team": "black",
+      "id_num": 0
+    },
+    {
+      "class": "rook",
+      "xPos": 7,
+      "yPos": 7,
+      "team": "black",
+      "id_num": 1
+    },
+    {
+      "class": "bishop",
+      "xPos": 2,
+      "yPos": 0,
+      "team": "white",
+      "id_num": 0
+    },
+    {
+      "class": "bishop",
+      "xPos": 5,
+      "yPos": 0,
+      "team": "white",
+      "id_num": 1
+    },
+    {
+      "class": "bishop",
+      "xPos": 2,
+      "yPos": 7,
+      "team": "black",
+      "id_num": 0
+    },
+    {
+      "class": "bishop",
+      "xPos": 5,
+      "yPos": 7,
+      "team": "black",
+      "id_num": 1
+    },
+    {
+      "class": "knight",
+      "xPos": 1,
+      "yPos": 0,
+      "team": "white",
+      "id_num": 0
+    },
+    {
+      "class": "knight",
+      "xPos": 6,
+      "yPos": 0,
+      "team": "white",
+      "id_num": 1
+    },
+    {
+      "class": "knight",
+      "xPos": 1,
+      "yPos": 7,
+      "team": "black",
+      "id_num": 0
+    },
+    {
+      "class": "knight",
+      "xPos": 6,
+      "yPos": 7,
+      "team": "black",
+      "id_num": 1
+    },
+    {
+      "class": "queen",
+      "xPos": 3,
+      "yPos": 0,
+      "team": "white",
+      "id_num": 0
+    },
+    {
+      "class": "king",
+      "xPos": 4,
+      "yPos": 0,
+      "team": "white",
+      "id_num": 0
+    },
+    {
+      "class": "queen",
+      "xPos": 3,
+      "yPos": 7,
+      "team": "black",
+      "id_num": 0
+    },
+    {
+      "class": "king",
+      "xPos": 4,
+      "yPos": 7,
+      "team": "black",
+      "id_num": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+We don't have any special instructions about interpreting lines of code. All of our ml and mli files are fair game, and all of our code is either in the src directory to the test directory. We've been measuring lines of code with the following bash command:
+
+find {src,test} -path "*.ml*" | xargs wc -l
+
+or simply running LOC.sh

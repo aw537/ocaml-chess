@@ -1,0 +1,32 @@
+{
+  "pieces": [
+    {
+      "class": "king",
+      "xPos": 0,
+      "yPos": 0,
+      "team": "white",
+      "id_num": 0
+    },
+    {
+      "class": "king",
+      "xPos": 7,
+      "yPos": 7,
+      "team": "black",
+      "id_num": 0
+    },
+    {
+      "class": "rook",
+      "xPos": 2,
+      "yPos": 1,
+      "team": "black",
+      "id_num": 0
+    },
+    {
+      "class": "rook",
+      "xPos": 2,
+      "yPos": 2,
+      "team": "white",
+      "id_num": 0
+    }
+  ]
+}
