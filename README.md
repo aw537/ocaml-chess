@@ -1,4 +1,4 @@
-OCaml Chess
+## OCaml Chess
 
 The only external package is OUnit2. Everything else is written in vanilla OCaml, so there aren't any special installation instructions.
 
